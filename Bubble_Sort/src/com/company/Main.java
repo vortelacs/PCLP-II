@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        long startTime = System.currentTimeMillis();
 
         Scanner in = new Scanner(System.in);
         int size, i;
@@ -21,5 +22,9 @@ public class Main {
         Bubble_Sort Sort_obj = new Bubble_Sort(arr);
 
         Sort_obj.Sort();
+
+        long endTime = System.currentTimeMillis();
+
+        System.out.println("Time execution: " + (endTime - startTime));
     }
 }
