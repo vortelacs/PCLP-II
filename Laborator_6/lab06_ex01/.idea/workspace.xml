@@ -51,22 +51,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="401" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1586468970143" />
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1586469217600">
+    <state x="419" y="95" key="FileChooserDialogImpl" timestamp="1587120705205">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586469217600" />
-    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1586469217599">
+    <state x="419" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587120705205" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1587120724768">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586469217599" />
-    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1586469217599">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587120724768" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1587120724767">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586469217599" />
-    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1586469217600">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587120724767" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1587120724767">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586469217600" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587120724767" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1587120724767">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587120724767" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1586469217600">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -83,17 +87,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586469217600" />
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1586461380840">
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1587120174513">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586461380840" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587120174513" />
     <state x="325" y="29" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586462212956">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="325" y="29" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1586462212956" />
-    <state x="22" y="0" key="new project wizard" timestamp="1586461459075">
+    <state x="22" y="0" key="new project wizard" timestamp="1587120722565">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="22" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1586461459075" />
+    <state x="22" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1587120722565" />
   </component>
 </project>
